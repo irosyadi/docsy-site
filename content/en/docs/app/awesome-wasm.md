@@ -32,6 +32,7 @@ Related links:
 ## Image Processing
 - [Squoosh by Google](https://squoosh.app/) : image compression
 - [JPEG.rocks: Privacy-aware JPEG optimizer](https://jpeg.rocks/) : jpeg optimizer
+- [Compress JPEG, PNG, JPG, SVG in Single Click. ](https://jpegcompressor.com/) : Jpeg compressor 
 - [redact.photo • Free and private image redaction in the browser](https://redact.photo/) photo redaction
 
 ## Text and Document Processing
